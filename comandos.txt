@@ -1,0 +1,8 @@
+echo "prueba de comandos"
+ls
+cd tests
+pwd
+ls -la > log.txt
+cat log.txt
+date & whoami
+exit
