@@ -3,7 +3,8 @@
 
 # 🐚 **WISH: A Simple UNIX Shell**
 		por Dorian García Giraldo
-		    Juan Manuel Restrepo Galarcio
+        Fredy Hoyos
+        Juan Manuel restrepo
 
 ## 📝 Descripción del Proyecto
 
@@ -145,5 +146,4 @@ drwxr-xr-x 2 dor dor 4096 Oct 13 21:29 .
 drwxr-xr-x 4 dor dor 4096 Oct 13 21:41 ..
 -rw-r--r-- 1 dor dor    0 Oct 16 10:01 log.txt
 Thu Oct 16 10:01:18 -05 2025
-
 dor
